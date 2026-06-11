@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "jela-mascot",
+      "description": "JELA (Burung Cendrawasih Teknologi) - Maskot Resmi JELANTARA",
+      "imageUrl": "/assets/jela.png",
+      "imageHint": "technology bird mascot"
+    }
+  ]
+}
